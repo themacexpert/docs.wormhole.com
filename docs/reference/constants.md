@@ -1760,9 +1760,9 @@ Consistency level is a `u8` so any single byte may be used, however a small subs
 <tr>
   <td>BNB Smart Chain</td>
   <td>200</td>
+  <td>201</td>
   <td> </td>
-  <td> </td>
-  <td>number of blocks</td>
+  <td>finalized</td>
   <td>~ 48s</td>
   <td><a href="https://docs.bnbchain.org/docs/learn/consensus">Details</a></td>
 </tr>
